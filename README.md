@@ -15,3 +15,4 @@ Online read-only versions
 Use the following links:
 
 * [Stat Mech Review](http://nbviewer.ipython.org/urls/raw.github.com/forrestsheldon/Stat_Mech/master/Stat_Mech_Review.ipynb)
+* [Energy in Thermodynamics](http://nbviewer.ipython.org/urls/raw.github.com/forrestsheldon/Stat_Mech/master/1_Energy_in_Thermodynamics.ipynb)
